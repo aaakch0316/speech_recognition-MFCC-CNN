@@ -26,7 +26,7 @@
 
 아래의 그림은 'five'라고 말한 오디오 샘플의 MFCC 결과값 이미지입니다.
 
-![MFCC_result](.image/MFCC_result.PNG)
+![MFCC_result](./image/MFCC_result.PNG)
 
 
 
@@ -34,11 +34,11 @@
 
 아래의 이미지처럼 모델을 확인 할 수 있습니다.
 
-![display_model](.image/display_model.PNG)
+![display_model](./image/display_model.PNG)
 
 아래의 이미지처럼 정확도를 확인 할 수 있습니다.
 
-![validation](.image\validation.PNG)
+![validation](./image/validation.PNG)
 
 
 

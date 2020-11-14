@@ -4,6 +4,8 @@
 
 
 
+
+
 ## 설치
 
 1. python 버전에 맞는 Anaconda 설치
@@ -20,6 +22,8 @@
 
 
 
+
+
 ## 사용법
 
 1. **MFCC.ipynb** 파일은 오디오 데이터 셋의 음성을 이미지로 바꾸는 파일입니다.
@@ -30,15 +34,21 @@
 
 
 
+
+
 2. **image-Classification.ipynb** 파일은 keras를 이용한 이미지분류를 해서 모델링을 합니다.
 
 아래의 이미지처럼 모델을 확인 할 수 있습니다.
 
 ![display_model](./image/display_model.PNG)
 
+
+
 아래의 이미지처럼 정확도를 확인 할 수 있습니다.
 
 ![validation](./image/validation.PNG)
+
+
 
 
 
@@ -52,9 +62,13 @@ Pull requests는 언제나 환영합니다. 사실 위의 모델은 현재 좋�
 
 
 
+
+
 ## 라이센스
 
 MIT
+
+
 
 
 
